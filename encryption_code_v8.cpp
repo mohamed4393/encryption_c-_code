@@ -11,7 +11,7 @@
 #include "مكتبات/black_hole_hash.hpp"
 
 //~ ^ % & 
-
+//بسم الله الرحمن الرحيم
 void map_gen(std::array<uint8_t, 256> &letter_map, uint32_t &key)
 {
     std::iota(letter_map.begin(), letter_map.end(), 1);
