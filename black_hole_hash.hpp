@@ -4,7 +4,7 @@
 #include <cstdint>
 #include <bit>
 //بسم الله الرحمن الرحيم 
-//i dont know how to discripe or make understand that code
+
 namespace hbh {
 
 
